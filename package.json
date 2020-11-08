@@ -52,12 +52,4 @@
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Newton-School/Counter-React-Redux-Solution.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Newton-School/Counter-React-Redux-Solution/issues"
-  },
-  "homepage": "https://github.com/Newton-School/Counter-React-Redux-Solution#readme"
 }
