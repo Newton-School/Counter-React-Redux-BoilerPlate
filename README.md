@@ -5,13 +5,13 @@
  Now You will be creating a counter using Redux. <br>
  
  ## Acceptance Criteria
- - [ ] create a simple counter using Redux
+ - [ ] Create a simple counter using Redux
  - [ ] Overall state should be an object with key as counter and value will be only integers (+ve / -ve / 0)
- - [ ] counter will be updated by click two buttons '+' / '-'
+ - [ ] Counter will be updated by click two buttons '+' / '-'
  - [ ] '+' will increase counter by 1
  - [ ] '-' will decrease counter by 1
  - [ ] '+' and '-' button should be visible.
- - [ ] display current counter value inside a tag which have attribute data-testid='counter'
+ - [ ] Display current counter value inside a tag which have attribute data-testid='counter'
  
 
  
